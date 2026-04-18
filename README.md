@@ -20,8 +20,6 @@
 
 
 ## Result:
----
 Thus the Numerical aperture of the fiber is measured.
-
 ---
 
