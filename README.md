@@ -1,23 +1,27 @@
 # Understanding-the-basic-principle-of-Optical-Communication-
 ## Aim: 
-## Measurement of Numerical aperture of the fiber
+Measurement of Numerical aperture of the fiber
+ ---
 ## Apparatus required:
-## Numerical Aperture measurement Jig
+Numerical Aperture measurement Jig
+---
 ## Procedure:
-## 1. Connect power supply to the board
-## 2. Connect one end of fiber cable to the output socket of emitter 1 circuit and the other end to the numerical aperture measurement jig. Hold the white screen facing the fiber such that its cut face is perpendicular to the axis of the fiber.
-## 3.Hold the white screen with 4 concentric circles (10, 15, 20 & 25mm diameter) vertically at a suitable distance to make the red spot from the fiber core coincide with 10mm circle.
+ 1. Connect power supply to the board
+ 2. Connect one end of fiber cable to the output socket of emitter 1 circuit and the other end to the numerical aperture measurement jig. Hold the white screen facing the fiber such that its cut face is perpendicular to the axis of the fiber.
+ 3.Hold the white screen with 4 concentric circles (10, 15, 20 & 25mm diameter) vertically at a suitable distance to make the red spot from the fiber core coincide with 10mm circle.
 <img width="482" height="220" alt="image" src="https://github.com/user-attachments/assets/3014e09b-8fcd-43bf-8ccb-dc5db5547141" />
 
-## 4. Record the distance from the fiber end, L and note the diameter W of the spot.
-## 5. Compute the numerical aperture from the formula 
+ 4. Record the distance from the fiber end, L and note the diameter W of the spot.
+ 5. Compute the numerical aperture from the formula 
 <img width="371" height="115" alt="image" src="https://github.com/user-attachments/assets/e8d66d15-8e27-494a-a273-223228b9ecb8" />
 
-## 6. Vary the distance between the screen and fiber optic cable and make it coincide with one of the concentric circles. Note the distance.
-## 7. Tabulate the various distances and diameter of the circles made on the white screen and compute the numerical aperture from the formula.
+ 6. Vary the distance between the screen and fiber optic cable and make it coincide with one of the concentric circles. Note the distance.
+ 7. Tabulate the various distances and diameter of the circles made on the white screen and compute the numerical aperture from the formula.
+---
 ## Tabulation:
-<img width="1097" height="1308" alt="WhatsApp Image 2026-04-18 at 2 40 31 PM" src="https://github.com/user-attachments/assets/a59c95b9-3dff-439c-832a-7cb0e03409aa" />
+
+<img width="1097" height="1308" alt="WhatsApp Image 2026-04-18 at 2 40 31 PM" src="https://github.com/user-attachments/assets/a239d194-c6dc-4af8-8605-bf2fa61a6840" />
 
 
-## Result:
+## Result
 Thus the Numerical aperture of the fiber is measured.
